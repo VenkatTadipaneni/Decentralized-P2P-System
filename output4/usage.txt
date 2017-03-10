@@ -1,0 +1,12 @@
+For Query
+input is filename for filesearch
+ex: 1.txt
+for all files search we need to give all files, client id(requesting)
+ex: all files 1
+
+For transfer:
+portno, ipaddress, filename
+
+For Ping:
+client id(requesting one), ipAddress, portno
+
